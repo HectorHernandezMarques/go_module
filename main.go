@@ -1,3 +1,6 @@
+// Copyright 2022 Hector Hernández Marques. All rights reserved.
+//
+// Test Module for testing Go Lang
 package main
 
 import (
