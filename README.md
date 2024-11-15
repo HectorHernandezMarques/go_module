@@ -1,2 +1,3 @@
 # go_module
-Go Module
+
+Go Module for testing Go Lang knowledge
