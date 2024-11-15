@@ -5,7 +5,7 @@ import (
 )
 
 func init() {
-	fmt.Println("Hello World!")
+	fmt.Println("go_module init")
 }
 
 func main() {
